@@ -1,11 +1,4 @@
 /*
-Name: Nicolas Argueta
-TerpConnect: Narguet3
-U_ID: 115996090
-Discussion Section: 0105
-Honor Pledge: I pledge on my honor that I have not given or received any 
-unauthorized assistance on this assignment.
-
 Description:
 The folowing program processes instructions through bit masking.
 The project and file below has four functions that process indivdual
